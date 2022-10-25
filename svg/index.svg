@@ -79,8 +79,7 @@
           letter-spacing: 5px;
           margin-left: 70px;
           white-space: nowrap;
-          animation:
-            typing 3.5s steps(40, end) infinite,
+          animation: typing 3.5s steps(40, end),
         }
 
         .skills {
