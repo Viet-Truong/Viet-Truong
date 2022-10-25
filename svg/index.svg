@@ -57,14 +57,17 @@
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
         .greeting {
-          overflow: hidden;
           font-weight: bold;
 					font-size: 36px;
 					line-height: 1.3;
-					letter-spacing: 5px;
-          margin-left: 70px;
-          white-space: nowrap;
-          animation:  typing 5s forwards, blink-caret .75s step-end infinite;
+          overflow: hidden; /* Ensures the content is not revealed until the animation */
+          border-right: .15em solid orange; /* The typwriter cursor */
+          white-space: nowrap; /* Keeps the content on a single line */
+          margin: 70px auto; /* Gives that scrolling effect as the typing happens */
+          letter-spacing: .15em; /* Adjust as needed */
+          animation: 
+            typing 3.5s steps(40, end),
+            blink-caret .75s step-end infinite;
         }
 				.skills {
           display: inline-flex;
