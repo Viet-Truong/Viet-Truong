@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/index.svg" width="1200" alt="my-profile" />
+  <img src="svf/index.svg" width="1200" alt="my-profile" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
