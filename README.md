@@ -45,39 +45,37 @@
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viet-Truong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="">
-    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Viet-Truong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="418" src="https://github-readme-stats.vercel.app/api?username=Viet-Truong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center"> Where to find me </h2>
 <br>
-<!-- https://icons8.com -->
-<!-- <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+<div align="center">
+  <a href="https://www.facebook.com/viettruong0208/" target="blank">
+    <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188539006922842/facebook.png" alt="facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://github.com/Viet-Truong" target="blank">
+    <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043189201543364728/discord.png" alt="discord" />
   </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188537723453552/youtube.png" alt="youtube" />
+  </a>
+  <a href="mailto:viettruong0825@gmail.com" target="top">
+    <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188538356813864/gmail.png" alt="email" />
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188538025455807/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div> -->
+</div>
 
 <br>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<!-- <a href="#" target="_blank">
-  <img src="svg/quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> -->
+<div align="center">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=jolly&animation=grow_out_in&layout=default&font=default)
+
+</div>
