@@ -54,19 +54,19 @@
 <br>
 <div align="center" style="display: flex;
     justify-content: space-evenly;">
-  <a href="https://www.facebook.com/viettruong0208/" target="blank">
+  <a href="https://www.facebook.com/viettruong0208/" style="margin-right: 30px" target="blank">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188539006922842/facebook.png" alt="facebook" />
   </a>
-  <a href="https://github.com/Viet-Truong" target="blank">
+  <a href="https://github.com/Viet-Truong" style="margin-right: 30px"  target="blank">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043189201543364728/discord.png" alt="discord" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/trungquandev" style="margin-right: 30px"  target="blank">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188537723453552/youtube.png" alt="youtube" />
   </a>
-  <a href="mailto:viettruong0825@gmail.com" target="top">
+  <a href="mailto:viettruong0825@gmail.com" style="margin-right: 30px"  target="top">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188538356813864/gmail.png" alt="email" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://instagram.com/trungquandev" style="margin-right: 30px"  target="blank">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188538025455807/instagram.png" alt="instagram" />
   </a>
 </div>
