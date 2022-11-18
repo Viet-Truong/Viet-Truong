@@ -52,8 +52,7 @@
 <br>
 <h2 align="center"> Where to find me </h2>
 <br>
-<div align="center" style="display: flex;
-    justify-content: space-evenly;">
+<div align="center">
   <a href="https://www.facebook.com/viettruong0208/" style="margin-right: 30px" target="blank">
     <img src="https://cdn.discordapp.com/attachments/951411070055104572/1043188539006922842/facebook.png" alt="facebook" />
   </a>
